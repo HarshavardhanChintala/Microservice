@@ -3,7 +3,6 @@
 📖 Overview
 
 This project is a microservices-based architecture consisting of the following services:
-
 Order Service - Manages order-related operations.
 
 Customer Service - Manages customer-related operations.
